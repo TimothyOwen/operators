@@ -6,11 +6,11 @@ Create a method that accepts two integers as input, then returns an integer that
 
 Create the following additional three methods that each take two parameters:
 
-<h4>Multiplication</h4> - which takes two numbers and returns the product.
+<h4>Multiplication</h4> - Which takes two numbers and returns the product.
 
-<h4>Subtraction</h4> - which takes two numbers, then returns the result of the subtraction.
+<h4>Subtraction</h4> - Which takes two numbers, then returns the result of the subtraction.
 
-<h4>Division</h4> - which takes two numbers, then returns the result of the division.
+<h4>Division</h4> - Which takes two numbers, then returns the result of the division.  
 
 Your division method may have returned the wrong result; This is called a rounding error and is quite common in most languages. this is because we were using ints rather than doubles. Modify the division method so that it takes Double parameters and then return a Double, if not already.
 
@@ -20,6 +20,6 @@ A person takes 3 exams in college, Physics, Chemistry, and Biology, each exam ha
 
 Create the results class, this class has 5 variables, Physics, Chemistry, and Biology, total and percentage. This class should also have 2 methods:
 
-<h4>Method 1</h4> - displays the results that the person got for each exam and then the total mark. Try to make the output neat and bespoke for each exam.
+<h4>Method 1</h4> - Displays the results that the person got for each exam and then the total mark. Try to make the output neat and bespoke for each exam.
 
-<h4>Method 2</h4> - which finds and displays the percentage that the person received for the exams overall.
+<h4>Method 2</h4> - Which finds and displays the percentage that the person received for the exams overall.
