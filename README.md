@@ -11,8 +11,7 @@ Create the following additional three methods that each take two parameters:
 <h4>Subtraction</h4> - Which takes two numbers, then returns the result of the subtraction.
 
 <h4>Division</h4> - Which takes two numbers, then returns the result of the division. -
-
-
+<br>
 Your division method may have returned the wrong result; This is called a rounding error and is quite common in most languages. this is because we were using ints rather than doubles. Modify the division method so that it takes Double parameters and then return a Double, if not already.
 
 __**<h2>Results</h2>**__
